@@ -1,6 +1,6 @@
 {
-  "version": "v20.21.37 (patches 3.15.0.rvp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/JonathanChan-geek/YouTube-ReVanced-Extended/releases/download/1/youtube-revanced-extended-magisk-v20.21.37-all.zip",
+  "version": "v21.03.36 (patches 3.16.0.rvp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/JonathanChan-geek/YouTube-ReVanced-Extended/releases/download/2/youtube-revanced-extended-magisk-v21.03.36-all.zip",
   "changelog": "https://raw.githubusercontent.com/JonathanChan-geek/YouTube-ReVanced-Extended/update/build.md"
 }
