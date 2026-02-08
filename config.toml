@@ -9,15 +9,17 @@ patches-version = "latest"
 app-name = "YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-version = "21.03.36"
+version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom header for YouTube'"
-included-patches = "'Visual preferences icons for YouTube' 'Return YouTube Username'"
-patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor=#FF121212 -OlightThemeBackgroundColor=#FFF9F9F9"
+exclusive-patches = true
+included-patches = "'Hide ads'"
+excluded-patches = ""
+patcher-args = ""
 
 [YouTube-Music-Extended]
+enabled = false
 app-name = "YouTube Music"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
