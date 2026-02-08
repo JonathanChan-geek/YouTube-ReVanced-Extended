@@ -1,4 +1,4 @@
-YouTube-Extended: 20.14.43  
+YouTube-Extended: 21.06.251  
 
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root YouTube and YT Music from Play Store  
 
